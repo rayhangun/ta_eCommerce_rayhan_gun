@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Data Analysis and Visualization Dashboard
 
 This project involves analyzing and visualizing data from an e-commerce platform using Python. The key objectives include answering specific research questions, creating visualizations, and building a Streamlit dashboard for interactive data exploration.
@@ -96,3 +97,6 @@ The analysis uses multiple datasets related to an e-commerce platform:
 - Rayhan Gunaningrat(https://github.com/rayhangun)
 
 Feel free to fork this repository, open issues, or submit pull requests for suggestions and improvements!
+=======
+# ta_eCommerce_rayhangun
+>>>>>>> fad739a2558dfe91fbf33cf96d451e4f1b3f2447
