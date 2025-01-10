@@ -6,7 +6,7 @@ import seaborn as sns
 # Load data
 @st.cache
 def load_data():
-   data = pd.read_csv('/Users/puspitacahyasari/Documents/PT ZABRAN/Data Scientist Learning Path/ta_eCommerce_rayhan_gun/dashboard/all_data.csv')
+   data = pd.read_csv('dashboard/all_data.csv')
    return data
 
 data = load_data()
