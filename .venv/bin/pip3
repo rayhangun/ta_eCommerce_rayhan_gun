@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/puspitacahyasari/Documents/PT ZABRAN/Data Scientist Learning Path/ta_e-commerce_rayhan_gun/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/puspitacahyasari/Documents/PT ZABRAN/Data Scientist Learning Path/ta_eCommerce_rayhan_gun/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
