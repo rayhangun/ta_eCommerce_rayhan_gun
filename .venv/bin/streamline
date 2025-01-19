@@ -1,0 +1,7 @@
+#!/Users/puspitacahyasari/Documents/PT ZABRAN/Data Scientist Learning Path/ta_eCommerce_rayhan_gun/.venv/bin/python3
+
+import sys
+from streamline.cli import streamline_command
+
+if __name__ == '__main__':
+    streamline_command(sys.argv[1:])
