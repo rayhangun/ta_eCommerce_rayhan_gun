@@ -1,10 +1,9 @@
+import matplotlib.pyplot as plt
 import streamlit as st  
-import pandas as pd  
-import matplotlib.pyplot as plt  
+import pandas as pd   
 import seaborn as sns  
   
 # Load data  
-@st.cache_data  
 def load_data():  
     # Load the all_data.csv file  
     data = pd.read_csv("dashboard/all_data.csv")  
