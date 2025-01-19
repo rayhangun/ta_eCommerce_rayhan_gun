@@ -54,7 +54,7 @@ The analysis uses multiple datasets related to an e-commerce platform:
    ```
 3. Run the Streamlit application:
    ```bash
-   streamlit run dashboard.py
+   streamlit run dashboard/dashboard.py
    ```
 
 ---
