@@ -78,11 +78,11 @@ The analysis uses multiple datasets related to an e-commerce platform:
 ---
 
 ## **Dependencies**
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `streamlit`
+- matplotlib==3.8.0
+- numpy==1.25.2
+- pandas==2.1.4
+- seaborn==0.13.0
+- streamlit==1.30.0
 
 ---
 
